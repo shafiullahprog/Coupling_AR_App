@@ -3046,6 +3046,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cupling
       objectReference: {fileID: 0}
+    - target: {fileID: 4094520708919875085, guid: 3df0b345d2062f74e98b74a7c21808c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
